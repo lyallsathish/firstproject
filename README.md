@@ -1,1 +1,2 @@
 # firstproject
+my new project
